@@ -54,4 +54,4 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 ### Shouldn’t haves 
 
 ## Flowchart NANDAlyze
-
+<img src="images/Screenshot 2025-01-09 at 12.40.20.png" width="600" alt="accessibility text">

@@ -37,6 +37,7 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 6) Has been tested with at least one case where the desired output is known (golden standard)
 7) At least one standardized prompt
 8) Can choose at least two language model
+9) Is used in a containerized and safe environment
 
 ### Should haves
 1) Can use both images and text files (multimodality)
@@ -47,8 +48,7 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 6) Can use NANDA classifications 
 7) Has an interface that is tested with the target audience 
 8) NANDAlyze is able to clinically reason
-9) Is used in a containerized and safe environment
-10) Multiple standardized prompts 
+9) Multiple standardized prompts 
 
 ### Could haves 
 1) User can choose GPU heat 

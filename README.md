@@ -55,6 +55,17 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 2) Can choose between roles the LLM could have 
 
 ### Shouldn’t haves 
+1) The interface should not be overly complex or require extensive training for the target audience to use effectively.
+2) The system should not make clinical decisions autonomously without the ability for human oversight or intervention.
+3) The AI should not use language models or data sources that are not validated for clinical applications.
+4) The solution should not ignore NANDA classifications when generating diagnostic suggestions.
+5) The interface should not limit accessibility for the target audience (e.g., requiring high-end hardware or software).
+6) The system should not allow unrestricted or unauthorized access to sensitive data.
+7) The AI should not operate without logging its reasoning or steps for auditability and transparency.
+8) The application should not rely on a single language model or framework, ensuring flexibility and adaptability.
+9) The tool should not force users into rigid workflows that do not align with clinical reasoning practices.
+10) The system should not generate output in languages that are unsupported by the target audience or application.
+
 
 ## Flowchart NANDAlyze
 <img src="images/Screenshot 2025-01-09 at 12.40.20.png" width="600" alt="accessibility text">

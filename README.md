@@ -2,7 +2,7 @@
 Project for nursing researchers using NLP and Nanda classifications for PLE at the Hogeschool Rotterdam
 
 ## About this project 
-With NANDAlyze nursing researchers will be able to translate narritives (cases, dialogues etc) into the standardized language of the NANDA-I classifications. Nurses tend to use vague or subjective language in patient documentation. To be able to compare, analyse and research nursing documentation standardized terminologies are necessary. The accuracy and agreement on nursing diagnoses varies among nurses and researchers. Nursing classifications are standardized languages which contain also a scientific knowlegde base about nursing. Examples are NANDA-I (nursing diagnosis), NOC (Nursing outcomes) and OMAHA system (problems, outcomes and interventions). NANDAlyze aims to be the first step in this project. The end goal would be for NANDAlyze to define more accurate nursing diagnoses. 
+With NANDAlyze nursing researchers will be able to translate narritives (cases, dialogues etc) into the standardized language of the NANDA-I classifications. Nurses tend to use vague or subjective language in patient documentation. To be able to compare, analyse and research nursing documentation standardized terminologies are necessary. The accuracy and agreement on nursing diagnoses varies among nurses and researchers. Nursing classifications are standardized languages which contain also a scientific knowlegde base about nursing. Examples are NANDA-I (nursing diagnosis), NOC (Nursing outcomes) and OMAHA system (problems, outcomes and interventions). NANDAlyze aims to be the first step in this project. The end goal would be for NANDAlyze to define more accurate nursing diagnoses (interoperable)
 
 
 

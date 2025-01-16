@@ -68,4 +68,10 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 
 
 ## Flowchart NANDAlyze
+### Flowchart 1 
+This is the flowchart I made for the presentation I did for the international team of nursing researchers. It's supposed to illustrate what happens in the process from going from input to output. 
 <img src="images/Screenshot 2025-01-09 at 12.40.20.png" width="600" alt="accessibility text">
+
+## Flowchart 2
+I got some feedback from researchers about this flowchart. The input (that's multimodal) should be multiple seperate layers. In this case I used both images and text files as an example but it could also be used with audio files. Also, there are two output layers: the "answer" and the answer with the NANDA classifications. I added this in my final version. 
+<img src="images/Screenshot 2025-01-16 at 16.47.36.png" width="600" alt="accessibility text">

@@ -2,10 +2,12 @@
 Project for nursing researchers using NLP and Nanda classifications for PLE at the Hogeschool Rotterdam
 
 ## About this project 
-With NANDAlyze nurses will be able to be better at assigning the right diagnosis to patients. The workload for nurses is often very high. With an administrative burden there is less time to work one on one with the patient and carefully analyse all the symptoms they are experiencing. These symptoms might get overlooked and could lead to a faulty diagnosis. NANDAlyze aims to be the first step to solve this problem. If you look at both the ERF (electronic patient file) and the conversations between patient and nurse, is there information that is missed? The end goal would be for NANDAlyze to be able to clinically reason. 
+With NANDAlyze nursing researchers will be able to translate narritives (cases, dialogues etc) into the standardized language of the NANDA-I classifications. Nurses tend to use vague or subjective language in patient documentation. To be able to compare, analyse and research nursing documentation standardized terminologies are necessary. The accuracy and agreement on nursing diagnoses varies among nurses and researchers. Nursing classifications are standardized languages which contain also a scientific knowlegde base about nursing. Examples are NANDA-I (nursing diagnosis), NOC (Nursing outcomes) and OMAHA system (problems, outcomes and interventions). NANDAlyze aims to be the first step in this project. The end goal would be for NANDAlyze to define more accurate nursing diagnoses. 
+
+
 
 ## Target Audience 
-The target audience for this project are nursing researchers. They conduct research about nurses and the healthcare field. Often this focuses on how to better the healthcare system. Many nursing researchers I spoke to are specifically doing research about the NANDA classifications. I conducted interviews with three researchers at the IVG lab and described their pains and gains. 
+The target audience for this project are nursing researchers. They conduct research about nursing and how to improve care planning. Many nursing researchers I spoke to are specifically doing research about the NANDA-I classifications. I conducted interviews with three researchers at the HR healthcare data-lab and described their pains and gains. 
 
 ### Pains 
 1) It takes too much time to read all of the data
@@ -29,12 +31,12 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 ### Must haves
 1) (One) prototype where there is an interface that meets the needs of the target audience 
 2) Implemented RAG or FAISS algorithm 
-3) Can look at either images or at text files to analyse 
+3) Can look at both images or at text files to analyse 
 4) Uses hugging face or Azure 
 5) Uses Streamlit or a different framework for the interface 
-6) Has been tested with at least one case where the desired output is known 
-7) User is able to write a prompt to ask the NLP tool 
-8) Can choose at least one language model
+6) Has been tested with at least one case where the desired output is known (golden standard)
+7) At least one standardized prompt
+8) Can choose at least two language model
 
 ### Should haves
 1) Can use both images and text files (multimodality)
@@ -42,10 +44,11 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 3) User can choose between different transformers 
 4) User can choose between different tokenizers 
 5) User can choose between different embedders 
-6) Can upload and use NANDA classifications 
+6) Can use NANDA classifications 
 7) Has an interface that is tested with the target audience 
 8) NANDAlyze is able to clinically reason
-9) Is used in a containerized and safe environment 
+9) Is used in a containerized and safe environment
+10) Multiple standardized prompts 
 
 ### Could haves 
 1) User can choose GPU heat 

@@ -69,7 +69,7 @@ This project is made for a project at the hogeschool Rotterdam called PLE (Perso
 
 ## Flowchart NANDAlyze
 ### Flowchart 1 
-This is the flowchart I made for the presentation I did for the international team of nursing researchers. It's supposed to illustrate what happens in the process from going from input to output. 
+This is the flowchart I made for the presentation I did for the international team of nursing researchers. It's supposed to illustrate what happens in the process from going from input to output. <br></br>
 <img src="images/Screenshot 2025-01-09 at 12.40.20.png" width="600" alt="accessibility text">
 
 ## Flowchart 2
